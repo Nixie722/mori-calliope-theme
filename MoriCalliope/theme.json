@@ -1,5 +1,6 @@
 {
     "name": "Mori Calliope",
+    "author": "BlaX",
     "version": "1",
     "inject": {
         "shared.css": [
