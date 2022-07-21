@@ -1,7 +1,8 @@
 {
     "name": "Mori Calliope",
     "author": "BlaX",
-    "version": "1",
+    "target": "System-Wide",
+    "version": "v1.0",
     "inject": {
         "shared.css": [
             "SP"
