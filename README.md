@@ -1,1 +1,0 @@
-# mori-calliope-theme
